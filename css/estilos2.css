@@ -137,7 +137,11 @@ label {
 	height: 50px;
 	color: var(--primario);
 }
-
+.bx {
+	font-size: 30px;
+	transform: translateX(120px);
+	cursor: pointer;
+}
 .folio{
 	color:#d40d0d!important;
 }
